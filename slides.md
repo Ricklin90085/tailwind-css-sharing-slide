@@ -360,7 +360,7 @@ layout: center
 
 ### 這跟直接寫 inline-style 有什麼不一樣？🤔
 
-<img src="/img/meme/spider man.jpeg" class="mx-auto mt-5">
+<img src="/img/meme/spider-man.jpeg" class="mx-auto mt-5">
 
 ---
 
